@@ -1,7 +1,6 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: AI Markup
+
 ---
 
-This is my first post, how exciting!
