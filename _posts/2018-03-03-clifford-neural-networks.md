@@ -6,5 +6,8 @@ title: Clifford Neural Networks
 The usage of Clifford Algebra as a framework for neural computation was described by Buchholz [1] in his PhD thesis.  
 
 
+x=\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+
+
 [1] S. Buchholz, A Theory of Neural Computation with Clifford Algebra. PhD Thesis, 2005.
 
