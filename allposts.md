@@ -11,8 +11,10 @@ subtitle: All Blog Posts
 - Deeplearning4j: An Overview
 - XML-based languages for AI: AIML and SSML
 - Clifford Neural Networks
-- An Introduction to BiPython
+- An Introduction to BioPython
 - Connecting Weka with MySQL
+- What is Apache Singa?
+- What is Apache Avro?
 - What is Enterprise Resource Planning (ERP)?
 - What is Robotic Process Automtion (RPA)?
 - What is Robot-as-a-Service (Raas)?
