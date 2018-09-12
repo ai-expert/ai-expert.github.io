@@ -18,11 +18,13 @@ subtitle: All Blog Posts
 - What is Enterprise Resource Planning (ERP)?
 - What is Robotic Process Automtion (RPA)?
 - What is Robot-as-a-Service (Raas)?
+- What is SAS?
 - Some Questions in Business Analytics
+- Data Analysis with PowerBI and SPSS
 - Credit Risk Modeling
 - Hidden Markov Models in Finance
 - Genetic Programming with Python
 - Bayesian Network Analysis with Netica
-- Artificial Neural Networks
-- Artificial Neural Networks
+- Artificial Neural Networks and Knot Theory
+- Artificial Neural Networks and p-adic numbers
 - Growing Neural Gas with Python
