@@ -26,7 +26,15 @@ navbar-links:
   All Posts: "allposts"
   About Me: "aboutme"
   Elsewhere:
-    - CodeProject: "http://www.codeproject.com"
+    - CodeProject: "#"
+    - DZone: "#"
+    - AI Zone: "#"
+    - Chatbots Magazine: "#"
+    - Medeley: "#"
+    - TopCoders: "#"
+    - Kaggle: "#"
+    - Github: "#"
+    - Dockerhub: "#"
     
    
   
