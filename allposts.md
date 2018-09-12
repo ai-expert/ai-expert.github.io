@@ -4,19 +4,21 @@ title: All Posts
 subtitle: All Blog Posts
 ---
 
-16. A List of Open Datasets for Data Science
-15. Data Science Glossary
-14. Deeplearning4j: An Overview
-13. XML-based languages for AI: AIML and SSML
-12. Clifford Neural Networks
-11. Connecting Weka with MySQL
-10. What is Enterprise Resource Planning (ERP)?
-9. What is Robotic Process Automtion (RPA)?
-8. What is Robot-as-a-Service (Raas)?
-7. Credit Risk Modeling
-6. Hidden Markov Models in Finance
-5. Genetic Programming with Python
-4. Bayesian Network Analysis with Netica
-3. Artificial Neural Networks
-2. Artificial Neural Networks
-1. Growing Neural Gas with Python
+- A List of Open Datasets for Data Science
+- Data Science Glossary
+- Deeplearning4j: An Overview
+- XML-based languages for AI: AIML and SSML
+- Clifford Neural Networks
+- An Introduction to BiPython
+- Connecting Weka with MySQL
+- What is Enterprise Resource Planning (ERP)?
+- What is Robotic Process Automtion (RPA)?
+- What is Robot-as-a-Service (Raas)?
+- Some Questions in Business Analytics
+- Credit Risk Modeling
+- Hidden Markov Models in Finance
+- Genetic Programming with Python
+- Bayesian Network Analysis with Netica
+- Artificial Neural Networks
+- Artificial Neural Networks
+- Growing Neural Gas with Python
