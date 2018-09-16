@@ -17,7 +17,7 @@ subtitle: All Blog Posts
 - DNA Analysis
 - An Introduction to BioPython
 - Connecting Weka with MySQL
-- What is Apache Singa?
+- What is Apache Feature Engineering?
 - What is Apache Singa?
 - What is Apache Avro?
 - What is Enterprise Resource Planning (ERP)?
