@@ -1,6 +1,5 @@
 
 ---
-
 layout: post
 
 title: Computer Vision vs Machine Vision vs Robot Vision: What's the difference?
